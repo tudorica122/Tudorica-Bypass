@@ -55,7 +55,7 @@
     "expiresAt": 1793980704703,
     "used": true,
     "hwid": "20431328C4872510821E439333496BE7966FB7BD4A9AD217A80038688AA3BE9F",
-    "blacklist": true,
+    "blacklist": null,
     "creator": "sint_boss",
     "user": "sint_boss"
   }
