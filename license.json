@@ -115,7 +115,7 @@
     "expiresAt": 1795016322825,
     "used": true,
     "hwid": "ACBFC6A086E695E8B9AE54D338297D56FF0234A5ED2C5FB7173708F8E91280A1",
-    "blacklist": null,
+    "blacklist": true,
     "creator": "robica_sefu",
     "user": "ch1nezu"
   },
